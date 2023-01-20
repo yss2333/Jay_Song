@@ -16,7 +16,27 @@ Hi, I'm Sejun(Jay)! I am a senior undergraduate and hold a Bachelor's of Science
 * R programming, SQL, Minitab, SAS, Tableau, GitHub, Microsoft Office Suite (Excel, Word, PowerPoint, Visio), Data
 Cleaning and Preparation, Data Visualization, Data Modeling 
 
-### Contents 
+## Table of contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+	+ [Video Games Sales Analysis](#video-games-sales-analysis)
+	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
+	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
+	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
+	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
+- [Study Projects](#study-projects)  
+	+ [sklearn ML course](#sklearn-ml-course)
+	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
+	+ [Data Analysis Course](#data-analyst-specialization)
+	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
+	+ [Learning SQL](#learning-sql)
+	+ [Python Developer Track](#python-developer-track)
+	+ [Computer Science Career Path](#computer-science-career-path)
+	+ [Google Python Class](#google-python-class)
+	+ [Side Projects](#side-projects)
+	+ [Tableau Vizzes](#tableau-vizzes)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
 
 
 * Data Visualization -using Excel and R :
