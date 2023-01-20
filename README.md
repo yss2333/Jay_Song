@@ -1,4 +1,8 @@
-# **Data-Analytics-Portfolio**
+# Sejun Song - Data Analysis Portfolio 
+
+## About
+
+Hi, I'm Sejun(Jay)! I am a senior undergraduate and hold a Bachelor's of Science degree in Statistics (Pennsylvania State University), majoring in statistical data analytics and minoring in Mathematics and Information Sciences and Technology. I had worked for 12 years in geoscience playing roles as Data Processing Engineer, Head of Department and CTO in a technological startup. After one year of transition from geoscience to Data Analysis, I'm Data Analyst in a Fintech company since June 2021.
 * This repository contains all the projects done during my academic career at **the Pennsylvania State University**
 
 ## Tools 
