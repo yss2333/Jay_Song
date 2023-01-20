@@ -1,20 +1,21 @@
 # **Data-Analytics-Portfolio**
-* This repository contains all the projects done during my academic career at **The Pennsylvania State University**
+* This repository contains all the projects done during my academic career at **the Pennsylvania State University**
 
 ## Tools 
-* Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
-* Machine Learning: scikit-learn
+* R
+* SQL
 * Statistics
 * Excel
 * Tableau
 
 ## Skills 
-* Python3 , Machine Learning, Data Analysis, Statistical Modeling, Data Visualization, Statistics , Tableau , Excel
+* R programming, SQL, Minitab, SAS, Tableau, GitHub, Microsoft Office Suite (Excel, Word, PowerPoint, Visio), Data
+Cleaning and Preparation, Data Visualization, Data Modeling 
 
 ### Contents 
 
 
-* Data Visualization -using Excel and Tableau :
+* Data Visualization -using Excel and R :
 
     - <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/E-commerce%20Dashboard"> E-Commerce Dataset : </a> By this dynamic Visualization of E Commerce using <b>Excel</b> gives the insights about their yearly Sales, Profit. This can be viewed by any user with out prior information. 
     - <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/Superstore-Tableau%20Dashboard"> Superstore Dataset : </a> Dynamic Visualization of SuperStore using <b>Tableau</b> gives the insights about the yearly Sales, Profits regionwise or categorywise. This can be viewed by any user with out prior information. 
@@ -57,6 +58,7 @@ Predict the calorie and caffeine content with its volume.
     
     
 ### Connect with me on these platforms:
-* LinkdIn : https://www.linkedin.com/in/ayisha-najeeha-26380a46/
-* Gmail : ayshamoossa27@gmail.com 
-* Yahoo mail:aysha_naji@yahoo.com
+* LinkdIn : https://www.linkedin.com/in/sejun-song 
+* Gmail : yss0632@gmail.com 
+* Alternative Email: sqs6461@psu.edu
+
