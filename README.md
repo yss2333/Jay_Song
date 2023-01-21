@@ -11,7 +11,9 @@ Hi, I'm Sejun(Jay)! I am a senior undergraduate and hold a Bachelor's of Science
 * SQL
 * Statistics
 * Excel
+* Tableau
 * Data Modeling
+* Microsoft Suite (Word, Excel, PowerPoint)
 
 ## Skills 
 * R programming, SQL, Minitab, SAS, Tableau, GitHub, Microsoft Office Suite (Excel, Word, PowerPoint, Visio), Data
