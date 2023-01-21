@@ -2,7 +2,8 @@
 
 ## About
 
-Hi, I'm Sejun(Jay)! I am a senior undergraduate and hold a Bachelor's of Science degree in Statistics (Pennsylvania State University), majoring in statistical data analytics and minoring in Mathematics and Information Sciences and Technology. I had worked for 12 years in geoscience playing roles as Data Processing Engineer, Head of Department and CTO in a technological startup. After one year of transition from geoscience to Data Analysis, I'm Data Analyst in a Fintech company since June 2021.
+Hi, I'm Sejun(Jay)! I am a senior undergraduate and hold a Bachelor's of Science degree in Statistics (Pennsylvania State University), majoring in statistical data analytics and minoring in Mathematics and Information Sciences and Technology. As an undergraduate studying data analysis, I have gained a strong foundation in statistical methods and programming skills. I am proficient in R, and have experience using data visualization libraries such as ggplot and Tableau. I am also familiar with SQL and have experience working with databases. I am excited to continue developing my skills and apply them to real-world problems. My GitHub portfolio showcases a variety of projects I have worked on, including data cleaning and visualization, predictive modeling, and data analysis. I am always looking for new opportunities to collaborate and work on data-driven projects.
+
 * This repository contains all the projects done during my academic career at **the Pennsylvania State University**
 
 ## Tools 
@@ -10,7 +11,7 @@ Hi, I'm Sejun(Jay)! I am a senior undergraduate and hold a Bachelor's of Science
 * SQL
 * Statistics
 * Excel
-* Tableau
+* Data Modeling
 
 ## Skills 
 * R programming, SQL, Minitab, SAS, Tableau, GitHub, Microsoft Office Suite (Excel, Word, PowerPoint, Visio), Data
