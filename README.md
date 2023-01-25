@@ -1,4 +1,4 @@
-# Sejun Song - Data Analys Portfolio 
+# Sejun Song - Data Analysis Projects Portfolio 
 
 ## About
 
@@ -10,15 +10,13 @@ Welcome to my portfolio. I'm Sejun(Jay)! I am a senior undergraduate and hold a 
 ## Tools 
 * R
 * SQL
-* Statistics
 * Excel
 * Tableau
-* Data Modeling
 * Microsoft Suite (Word, Excel, PowerPoint)
 
 ## Skills 
 * R programming, SQL, Minitab, SAS, Tableau, GitHub, Microsoft Office Suite (Excel, Word, PowerPoint, Visio), Data
-Cleaning and Preparation, Data Visualization, Data Modeling 
+Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Statistical Analysis 
 
 ## Table of contents
 - [About](#about)
