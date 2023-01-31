@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/55368034/215658874-ffd48a56-53ac-452a-bf4a-fdd7a258d11b.png" width="800" height="400" center-image>
 
-# Sejun Song - Data Analysis Projects Portfolio
+# Sejun Song - Data Analysis Projects Portfolio #
 
 
 ## About
@@ -16,11 +16,9 @@ welcome to my portfolio. I'm Sejun(Jay)! I am a senior undergraduate and pursuin
 * Excel
 * Tableau
 * Microsoft Suite (Word, Excel, PowerPoint)
-
 ## Skills 
 * R programming, SQL, Minitab, SAS, Tableau, GitHub, Microsoft Office Suite (Excel, Word, PowerPoint, Visio), Data
 Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Statistical Analysis 
-
 ## Table of contents
 - **[About](#about)**
 - **[Study Projects](#study-projects)** 
