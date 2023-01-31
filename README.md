@@ -38,7 +38,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 		* [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/UYKJNZWJPSGB)
 		* [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/BEPLH8KQH85G)
 
-- **[Contacts](https://github.com/yss2333/Sejun-Song/edit/main/README.md#connect-with-me-on-these-platforms)**
+- **[Contacts](https://github.com/yss2333/Sejun-Song#connect-with-me)**
 
 
 * Data Visualization -using Excel and R :
