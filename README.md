@@ -3,7 +3,7 @@
 ## About
 
 Hello,
-Welcome to my portfolio. I'm Sejun(Jay)! I am a senior undergraduate and hold a Bachelor's of Science degree in Statistics (Pennsylvania State University), majoring in statistical data analytics and minoring in Mathematics and Information Sciences and Technology. As an undergraduate studying data analysis, I have gained a strong foundation in statistical methods and programming skills. I am proficient in R, and have experience using data visualization libraries such as ggplot and Tableau. I am also familiar with SQL and have experience working with databases. I am excited to continue developing my skills and apply them to real-world problems. My GitHub portfolio showcases a variety of projects I have worked on, including data cleaning and visualization, predictive modeling, and data analysis. I am always looking for new opportunities to collaborate and work on data-driven projects.
+welcome to my portfolio. I'm Sejun(Jay)! I am a senior undergraduate and pursuing a Bachelor's of Science degree in Statistics (Pennsylvania State University), majoring in statistical data analytics and minoring in Mathematics and Information Sciences and Technology. As an undergraduate studying data analysis, I have gained a strong foundation in statistical methods and programming skills. I am proficient in R, and have experience using data visualization libraries such as ggplot and Tableau. I am also familiar with SQL and have experience working with databases. I am excited to continue developing my skills and apply them to real-world problems. My GitHub portfolio showcases a variety of projects I have worked on, including data cleaning and visualization, predictive modeling, and data analysis. I am always looking for new opportunities to collaborate and work on data-driven projects.
 
 * This repository contains all the projects done during my academic career at **the Pennsylvania State University**
 
@@ -20,12 +20,6 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 
 ## Table of contents
 - [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales-analysis)
-	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
-	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
-	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
-	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)  
 	+ [sklearn ML course](#sklearn-ml-course)
 	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
@@ -87,4 +81,5 @@ Predict the calorie and caffeine content with its volume.
 * LinkdIn : https://www.linkedin.com/in/sejun-song 
 * Gmail : yss0632@gmail.com 
 * Alternative Email: sqs6461@psu.edu
+* Mobile: (814)-441-8801
 
