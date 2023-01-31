@@ -22,7 +22,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 - [About](#about)
 - [Study Projects](#study-projects)  
 	+ [Boeing Business Case Competiton](https://github.com/yss2333/Sejun-Song/blob/main/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf)
-	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
+	+ [Regression Model Analysis - Real Estate Sales](https://github.com/yss2333/Sejun-Song/blob/main/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf)
 	+ [Data Analysis Course](#data-analyst-specialization)
 	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
 	+ [Learning SQL](#learning-sql)
