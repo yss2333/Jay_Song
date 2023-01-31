@@ -21,7 +21,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 ## Table of contents
 - [About](#about)
 - [Study Projects](#study-projects)  
-	+ [sklearn ML course](#sklearn-ml-course)
+	+ [Boeing Business Case Competiton](https://github.com/yss2333/Sejun-Song/blob/main/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf)
 	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
 	+ [Data Analysis Course](#data-analyst-specialization)
 	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
@@ -37,7 +37,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 
 * Data Visualization -using Excel and R :
 
-    - <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/E-commerce%20Dashboard"> E-Commerce Dataset : </a> By this dynamic Visualization of E Commerce using <b>Excel</b> gives the insights about their yearly Sales, Profit. This can be viewed by any user with out prior information. 
+    - <a href=https://github.com/yss2333/Sejun-Song/blob/main/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf> Boeing Business Case : </a> By this dynamic Visualization of E Commerce using <b>Excel</b> gives the insights about their yearly Sales, Profit. This can be viewed by any user with out prior information. 
     - <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/Superstore-Tableau%20Dashboard"> Superstore Dataset : </a> Dynamic Visualization of SuperStore using <b>Tableau</b> gives the insights about the yearly Sales, Profits regionwise or categorywise. This can be viewed by any user with out prior information. 
   
 * Machine Learning Case Studies :
