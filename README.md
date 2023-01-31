@@ -83,7 +83,7 @@ Predict the calorie and caffeine content with its volume.
 
     
     
-## Connect with me on these platforms:
+## Connect with me:
 * LinkdIn : https://www.linkedin.com/in/sejun-song 
 * Gmail : yss0632@gmail.com 
 * Alternative Email: sqs6461@psu.edu
