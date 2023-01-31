@@ -1,4 +1,7 @@
-# Sejun Song - Data Analysis Projects Portfolio #
+<img src="https://user-images.githubusercontent.com/55368034/215658874-ffd48a56-53ac-452a-bf4a-fdd7a258d11b.png" width="800" height="400" center-image>
+
+# Sejun Song - Data Analysis Projects Portfolio
+
 
 ## About
 
