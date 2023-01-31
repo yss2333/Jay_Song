@@ -1,4 +1,4 @@
-# Sejun Song - Data Analysis Projects Portfolio 
+# Sejun Song - Data Analysis Projects Portfolio #
 
 ## About
 
@@ -19,8 +19,8 @@ welcome to my portfolio. I'm Sejun(Jay)! I am a senior undergraduate and pursuin
 Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Statistical Analysis 
 
 ## Table of contents
-- [About](#about)
-- [Study Projects](#study-projects)  
+- **[About](#about)**
+- **[Study Projects](#study-projects)** 
 	+ [Boeing Business Case Competiton](https://github.com/yss2333/Sejun-Song/blob/main/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf)
 	+ [Regression Model Analysis - Real Estate Sales](https://github.com/yss2333/Sejun-Song/blob/main/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf)
 	+ [Data Analysis Course](#data-analyst-specialization)
@@ -31,14 +31,14 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 	+ [Google Python Class](#google-python-class)
 	+ [Side Projects](#side-projects)
 	+ [Tableau Vizzes](#tableau-vizzes)
-- [Certificates](#certificates)
-	+ [Google Data Analytics Professional Certificate] - In Progress
+- **[Certificates](#)**
+	+ Google Data Analytics Professional Certificate - In Progress
 		* [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/UQEXTBFE97RR)
 		* [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/HN4MTMSPB6LC)
 		* [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/UYKJNZWJPSGB)
 		* [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/BEPLH8KQH85G)
 
-- [Contacts](https://github.com/yss2333/Sejun-Song/edit/main/README.md#connect-with-me-on-these-platforms)
+- **[Contacts](https://github.com/yss2333/Sejun-Song/edit/main/README.md#connect-with-me-on-these-platforms)**
 
 
 * Data Visualization -using Excel and R :
@@ -83,7 +83,7 @@ Predict the calorie and caffeine content with its volume.
 
     
     
-### Connect with me on these platforms:
+## Connect with me on these platforms:
 * LinkdIn : https://www.linkedin.com/in/sejun-song 
 * Gmail : yss0632@gmail.com 
 * Alternative Email: sqs6461@psu.edu
