@@ -32,7 +32,13 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 	+ [Side Projects](#side-projects)
 	+ [Tableau Vizzes](#tableau-vizzes)
 - [Certificates](#certificates)
-- [Contacts](#contacts)
+	+ [Google Data Analytics Professional Certificate] - In Progress
+		* [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/UQEXTBFE97RR)
+		* [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/HN4MTMSPB6LC)
+		* [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/UYKJNZWJPSGB)
+		* [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/BEPLH8KQH85G)
+
+- [Contacts](https://github.com/yss2333/Sejun-Song/edit/main/README.md#connect-with-me-on-these-platforms)
 
 
 * Data Visualization -using Excel and R :
