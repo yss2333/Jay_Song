@@ -38,6 +38,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 		* [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/HN4MTMSPB6LC)
 		* [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/UYKJNZWJPSGB)
 		* [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/BEPLH8KQH85G)
+		* [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/5FKNQSEHYAJ9)
 
 - **[Contacts](https://github.com/yss2333/Sejun-Song#connect-with-me)**
 
