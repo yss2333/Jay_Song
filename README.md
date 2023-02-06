@@ -21,8 +21,10 @@ welcome to my portfolio. I'm Sejun(Jay)! I am a senior undergraduate and pursuin
 Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Statistical Analysis 
 ## Table of contents
 - **[About](#about)**
-- **[Study Projects](https://github.com/yss2333/Sejun-Song/edit/main/README.md#study-projects)** 
-- **[
+- **[Study Projects](https://github.com/yss2333/Sejun-Song/edit/main/README.md#study-projects)**
+- **[R Projects](https://github.com/yss2333/Sejun-Song/edit/main/README.md#study-projects)** 
+- **[SQL Projects]()**
+- **[Tableau Projects]()**
 - **[Certificates](https://github.com/yss2333/Sejun-Song/edit/main/README.md#certificates)**
 
 
@@ -39,7 +41,9 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 ## Data-EDA/Statistical Analysis/Webscrapping:
   
 - <u>Statistical Analysis using R<u> :    
-   * <a href="https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf"> Social Media Usage dataset </a>: 
+   * <a href="https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf"> Social Media Usage Analysis </a>: 
+        To determine the effect of social media usage on students’ academic performance and mental health according to various factors which gives an insight about the statistical analysis using <b>R</b>.
+   * <a href="https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf](https://github.com/yss2333/Sejun-Song/blob/main/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf"> Real Estate Sales Analysis </a>: 
         To determine the effect of social media usage on students’ academic performance and mental health according to various factors which gives an insight about the statistical analysis using <b>R</b>.
     
 - <u>Web Scrapping<u> : 
