@@ -42,7 +42,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 ## Data-EDA/Statistical Analysis/Webscrapping:
   
 - <u>Statistical Analysis using R<u> :    
-   * <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/blob/main/Projects/Statistical%20Analysis-R%20and%20Python/Abalone%20Dataset%20-%20Statistical%20Analysis%20on%20Python.ipynb](https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf"> Social Media Usage dataset </a>: 
+   * <a href="https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf"> Social Media Usage dataset </a>: 
         To determine the effect of social media usage on students’ academic performance and mental health according to various factors which gives an insight about the statistical analysis using <b>R</b>.
     
 - <u>Web Scrapping<u> : 
