@@ -21,22 +21,19 @@ welcome to my portfolio. I'm Sejun(Jay)! I am a senior undergraduate and pursuin
 Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Statistical Analysis 
 ## Table of contents
 - **[About](#about)**
-- **[Study Projects](#study-projects)** 
-	+ [Boeing Business Case Competiton](https://github.com/yss2333/Sejun-Song/blob/main/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf)
-	+ [Regression Model Analysis - Real Estate](https://github.com/yss2333/Sejun-Song/blob/main/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf)
-	+ [Statistical Investigation & Data Analysis](https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf)
-- **[Certificates](#)**
-	+ Google Data Analytics Professional Certificate - In Progress
-		* [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/UQEXTBFE97RR)
-		* [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/HN4MTMSPB6LC)
-		* [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/UYKJNZWJPSGB)
-		* [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/BEPLH8KQH85G)
-		* [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/5FKNQSEHYAJ9)
+- **[Study Projects](https://github.com/yss2333/Sejun-Song/edit/main/README.md#study-projects)** 
+- **[
+- **[Certificates](https://github.com/yss2333/Sejun-Song/edit/main/README.md#certificates)**
+
 
 - **[Contacts](https://github.com/yss2333/Sejun-Song#connect-with-me)**
 
 
-
+ ## Study Projects
+ - **Projects** 
+	+ [Boeing Business Case Competiton](https://github.com/yss2333/Sejun-Song/blob/main/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf)
+	+ [Regression Model Analysis - Real Estate](https://github.com/yss2333/Sejun-Song/blob/main/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf)
+	+ [Statistical Investigation & Data Analysis](https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf)
     
     
 ## Data-EDA/Statistical Analysis/Webscrapping:
@@ -50,7 +47,13 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
    * <a href="https://github.com/ayshanaji/Data-Analytics-Portfolio-EduBridge/tree/main/Projects/Wikipedia-WebScraping"> Web Scrapping </a> : 
     Main purpose is to scrap the data about the countries and its population.
     
-
+## Certificates
+- **Google Data Analytics Professional Certificate**
+	* [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/UQEXTBFE97RR)
+	* [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/HN4MTMSPB6LC)
+	* [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/UYKJNZWJPSGB)
+	* [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/BEPLH8KQH85G)
+	* [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/5FKNQSEHYAJ9)
     
     
 ## Connect with me:
