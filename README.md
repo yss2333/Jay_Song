@@ -22,7 +22,6 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 ## Table of contents
 - **[About](#about)**
 - **[Study Projects](https://github.com/yss2333/Sejun-Song/blob/main/README.md#study-projects)**
-- **[R Projects](https://github.com/yss2333/Sejun-Song/edit/main/README.md#study-projects)** 
 - **[SQL Projects]()**
 - **[Tableau Projects]()**
 - **[Certificates](https://github.com/yss2333/Sejun-Song/edit/main/README.md#certificates)**
@@ -36,7 +35,11 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 	+ [Boeing Business Case Competiton 2022](https://github.com/yss2333/Sejun-Song/blob/main/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf)
 	+ [Regression Model Analysis - Real Estate](https://github.com/yss2333/Sejun-Song/blob/main/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf)
 	+ [Statistical Investigation & Data Analysis](https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf)
-    
+
+ ## SQL Projects
+ - **Projects** 
+ 	+ [Covid Data Exploration]
+	+ [Clean Dataset of Nashville Housing]
     
 ## Data-EDA/Statistical Analysis:
   
