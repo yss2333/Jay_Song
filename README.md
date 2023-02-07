@@ -56,6 +56,10 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
         To determine the effect of social media usage on students’ academic performance and mental health according to various factors which gives an insight about the statistical analysis using <b>R</b>.
    * <a href="https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf](https://github.com/yss2333/Sejun-Song/blob/main/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf"> Real Estate Sales Analysis </a>: 
         To determine the effect of social media usage on students’ academic performance and mental health according to various factors which gives an insight about the statistical analysis using <b>R</b>.
+- <u>Statistical Analysis using R<u> :    
+   * <a href="https://github.com/yss2333/Sejun-Song/blob/main/Regression_Modeling_Analysis.pdf">  Analysis </a>: 
+        need to be fixed <b>R</b>.	
+	
     
 
 ## Certificates
