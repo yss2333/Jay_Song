@@ -38,8 +38,8 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 
  ## SQL Projects
  - **Projects** 
- 	+ [Covid Data Exploration]
-	+ [Clean Dataset of Nashville Housing]
+ 	+ [Covid Data Exploration](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Covid%20Data%20Exploration.sql)
+	+ [Clean Dataset of Nashville Housing](
     
 ## Data-EDA/Statistical Analysis:
   
