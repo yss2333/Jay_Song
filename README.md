@@ -33,7 +33,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 
  ## Study Projects
  - **Projects** 
-	+ [Boeing Business Case Competiton](https://github.com/yss2333/Sejun-Song/blob/main/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf)
+	+ [Boeing Business Case Competiton 2022](https://github.com/yss2333/Sejun-Song/blob/main/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf)
 	+ [Regression Model Analysis - Real Estate](https://github.com/yss2333/Sejun-Song/blob/main/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf)
 	+ [Statistical Investigation & Data Analysis](https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf)
     
