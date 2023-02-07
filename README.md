@@ -38,7 +38,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 	+ [Statistical Investigation & Data Analysis](https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf)
     
     
-## Data-EDA/Statistical Analysis/Webscrapping:
+## Data-EDA/Statistical Analysis:
   
 - <u>Statistical Analysis using R<u> :    
    * <a href="https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf"> Social Media Usage Analysis </a>: 
