@@ -1,7 +1,10 @@
-<img align="center" src="https://user-images.githubusercontent.com/55368034/215658874-ffd48a56-53ac-452a-bf4a-fdd7a258d11b.png" width="800" height="400">
+<p align="center">
+<img width="800" height="400" src="https://user-images.githubusercontent.com/55368034/215658874-ffd48a56-53ac-452a-bf4a-fdd7a258d11b.png">
+</p>
 
-# Sejun Song - Data Analysis Projects Portfolio #
-
+<h1 align="center">
+Data Analysis Projects Portfolio - Sejun Song 
+</h1>
 
 ## About
 
