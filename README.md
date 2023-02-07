@@ -22,8 +22,8 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 ## Table of contents
 - **[About](#about)**
 - **[Study Projects](https://github.com/yss2333/Sejun-Song/blob/main/README.md#study-projects)**
-- **[SQL Projects]()**
-- **[Tableau Projects]()**
+- **[SQL Projects](https://github.com/yss2333/Sejun-Song/blob/main/README.md#sql-projects)**
+- **[Tableau Projects](https://github.com/yss2333/Sejun-Song/edit/main/README.md#tableau-projects)**
 - **[Certificates](https://github.com/yss2333/Sejun-Song/edit/main/README.md#certificates)**
 
 
@@ -39,7 +39,12 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
  ## SQL Projects
  - **Projects** 
  	+ [Covid Data Exploration](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Covid%20Data%20Exploration.sql)
-	+ [Clean Dataset of Nashville Housing](
+	+ [Data Cleaning - Nashville Housing](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Data%20Cleaning%20-%20Nashville%20Housing.sql)
+		* [Cleaned_dataset_NashvilleHousing](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Cleaned%20Data%20-%20Nashville%20Housing.csv)
+
+
+## Tableau Projects
+- **Dashboard**
     
 ## Data-EDA/Statistical Analysis:
   
