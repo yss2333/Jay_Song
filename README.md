@@ -21,7 +21,7 @@ welcome to my portfolio. I'm Sejun(Jay)! I am a senior undergraduate and pursuin
 Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Statistical Analysis 
 ## Table of contents
 - **[About](#about)**
-- **[Study Projects](https://github.com/yss2333/Sejun-Song/edit/main/README.md#study-projects)**
+- **[Study Projects](https://github.com/yss2333/Sejun-Song/blob/main/README.md#study-projects)**
 - **[R Projects](https://github.com/yss2333/Sejun-Song/edit/main/README.md#study-projects)** 
 - **[SQL Projects]()**
 - **[Tableau Projects]()**
