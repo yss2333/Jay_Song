@@ -28,10 +28,8 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 - **[Study Projects](https://github.com/yss2333/Sejun-Song/blob/main/README.md#study-projects)**
 - **[SQL Projects](https://github.com/yss2333/Jay_Song/blob/main/README.md#sql-projects)**
 - **[Tableau Projects](https://github.com/yss2333/Sejun-Song/blob/main/README.md#tableau-projects)**
-- **[Certificates](https://github.com/yss2333/Sejun-Song/edit/main/README.md#certificates)**
-
-
-- **[Contacts](https://github.com/yss2333/Sejun-Song#connect-with-me)**
+- **[Certificates](https://github.com/yss2333/Jay_Song/edit/main/README.md#certificates)**
+- **[Contacts](https://github.com/yss2333/Jay_Song#connect-with-me)**
 
 
  ## Study Projects
