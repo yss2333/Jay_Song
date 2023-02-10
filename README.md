@@ -17,12 +17,15 @@ My expertise in these tools, combined with my attention to detail and ability to
 ## Tools 
 * R
 * SQL
-* Excel
 * Tableau
-* Microsoft Suite (Word, Excel, PowerPoint)
+* Microsoft Word
+* Microsoft Excel
+* Microsoft PowerPoint
+
 ## Skills 
 * R programming, SQL, Minitab, SAS, Tableau, GitHub, Microsoft Office Suite (Excel, Word, PowerPoint, Visio), Data
 Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Statistical Analysis 
+
 ## Table of contents
 - **[About](#about)**
 - **[Study Projects](https://github.com/yss2333/Sejun-Song/blob/main/README.md#study-projects)**
