@@ -41,16 +41,6 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 	+ [Statistical Investigation & Data Analysis](https://github.com/yss2333/Sejun-Song/blob/main/Statistical%20Investigation%20%26%20Data%20Analysis.pdf)
 	+ [Regression_Modeling](https://github.com/yss2333/Jay_Song/blob/main/Study%20Projects/Regression_Modeling_Analysis.pdf)
 
- ## SQL Projects
- - **Projects** 
- 	+ [Covid Data Exploration](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Covid%20Data%20Exploration.sql)
-	+ [Data Cleaning - Nashville Housing](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Data%20Cleaning%20-%20Nashville%20Housing.sql)
-		* [Cleaned_dataset_NashvilleHousing](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Cleaned%20Data%20-%20Nashville%20Housing.csv)
-
-
-## Tableau Projects
-- **Dashboard**
-    
 ## Data-EDA/Statistical Analysis:
   
 - <u>Statistical Analysis using R<u> :    
@@ -60,9 +50,12 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
    * <a href="https://github.com/yss2333/Jay_Song/blob/main/Study%20Projects/Regression_Modeling_Analysis.pdf"> Regression Analysis </a>: To Analyzing three di
          using <b>R</b>.
 
-	
+ ## SQL Projects
+ - **Projects** 
+ 	+ [Covid Data Exploration](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Covid%20Data%20Exploration.sql)
+	+ [Data Cleaning - Nashville Housing](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Data%20Cleaning%20-%20Nashville%20Housing.sql)
+		* [Cleaned_dataset_NashvilleHousing](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Cleaned%20Data%20-%20Nashville%20Housing.csv)
     
-
 ## Certificates
 - **Google Data Analytics Professional Certificate**
 	* [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/UQEXTBFE97RR)
