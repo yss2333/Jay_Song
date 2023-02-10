@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Data Analysis Projects Portfolio - Sejun Song 
+< Data Analysis Projects Portfolio - Sejun Song > 
 </h1>
 
 ## About
