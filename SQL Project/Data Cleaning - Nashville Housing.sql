@@ -1,11 +1,3 @@
-/*
-
-
-
-Cleaning Data in SQL Queries
-
-
-*/
 
 Select * 
 from Projects. dbo.NashvilleHousing
@@ -106,14 +98,14 @@ PARSENAME(Replace(OwnerAddress,',','.'),2),
 PARSENAME(Replace(OwnerAddress,',','.'),1)
 FROM projects.dbo.NashvilleHousing
 
--- update address
+-- Update address
 Alter Table NashvilleHousing
 Add OwnerSplitAddress Nvarchar(255); 
 
 update NashvilleHousing
 SET OwnerSplitAddress = PARSENAME(Replace(OwnerAddress,',','.'),3)
 
--- update City
+-- Update City
 Alter Table NashvilleHousing
 Add OwnerSplitCity Nvarchar(255); 
 
@@ -128,7 +120,7 @@ Add OwnerSplitState Nvarchar(255);
 update NashvilleHousing
 SET OwnerSplitState = PARSENAME(Replace(OwnerAddress,',','.'),1)
 
--- check 
+
 select * 
 from Projects.dbo.NashvilleHousing
 
