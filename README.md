@@ -37,18 +37,18 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 
  ## Studt Projects - R
  - **Projects** 
-	+ [Boeing Business Case Competiton 2022](https://github.com/yss2333/Sejun-Song/blob/main/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf)
-	+ [Regression Model Analysis - Real Estate](https://github.com/yss2333/Sejun-Song/blob/main/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf)
-	+ [Statistical Investigation & Data Analysis](https://github.com/yss2333/Jay_Song/blob/main/Study%20Projects/Statistical%20Investigation%20%26%20Data%20Analysis.pdf)
-	+ [Regression_Modeling](https://github.com/yss2333/Jay_Song/blob/main/Study%20Projects/Regression_Modeling_Analysis.pdf)
+	+ [Boeing Business Case Competiton 2022](Study Projects/Boeing Business Case Competition 2023 - Statistical Data Analysis.pdf)
+	+ [Regression Model Analysis - Real Estate](Study Projects/Regression Modeling Project - Real Estate Sales.pdf)
+	+ [Statistical Investigation & Data Analysis](Study Projects/Statistical Investigation & Data Analysis.pdf)
+	+ [Regression_Modeling](Study Projects/Regression_Modeling_Analysis.pdf)
 
 ## Data-EDA & Statistical Analysis:
 
  <u>Statistical Analysis using R<u> :    
    + <a href="Study Projects/Statistical Investigation & Data Analysis.pdf"> Social Media Usage Analysis </a>: 
         To determine the effect of social media usage on students’ academic performance and mental health according to various factors which gives an insight about the statistical analysis using <b>R</b>.
-   + <a href="https://github.com/yss2333/Jay_Song/blob/main/Study%20Projects/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf"> Real Estate Sales Analysis </a>: To analyze the data on real estate to predict the house price and identify a relationship between various factors and the sale price of houses using <b>R</b>.
-   + <a href="https://github.com/yss2333/Jay_Song/blob/main/Study%20Projects/Regression_Modeling_Analysis.pdf"> Regression Modeling </a>: This project contains three different datasets.
+   + <a href="Study Projects/Regression Modeling Project - Real Estate Sales.pdf"> Real Estate Sales Analysis </a>: To analyze the data on real estate to predict the house price and identify a relationship between various factors and the sale price of houses using <b>R</b>.
+   + <a href="Study Projects/Statistical Investigation & Data Analysis.pdf"> Regression Modeling </a>: This project contains three different datasets.
 	
 	1. Property Valuation and Assessment: To analyze the relationship between the selling price and the assessed valuation of one-family residential dwellings in a large tax district using R.
 	
