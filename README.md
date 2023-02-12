@@ -61,7 +61,11 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
  	+ [Covid Data Exploration](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Covid%20Data%20Exploration.sql)
 	+ [Data Cleaning - Nashville Housing](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Data%20Cleaning%20-%20Nashville%20Housing.sql)
 		* [Cleaned_dataset_NashvilleHousing](https://github.com/yss2333/Sejun-Song/blob/main/SQL%20Project/Cleaned%20Data%20-%20Nashville%20Housing.csv)
-    
+
+## Tableau Projects
+- **Projects**
+	 + In Progress
+	 
 ## Certificates
 - **Google Data Analytics Professional Certificate**
 	* [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/UQEXTBFE97RR)
