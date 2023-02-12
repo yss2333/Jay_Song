@@ -50,11 +50,11 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
    + <a href="https://github.com/yss2333/Jay_Song/blob/main/Study%20Projects/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf"> Real Estate Sales Analysis </a>: To analyze the data on real estate to predict the house price and identify a relationship between various factors and the sale price of houses using <b>R</b>.
    + <a href="https://github.com/yss2333/Jay_Song/blob/main/Study%20Projects/Regression_Modeling_Analysis.pdf"> Regression Modeling </a>: This project contains three different datasets.
 	
-	1. Property Valuation and Assessment : To analyze the relationship between the selling price and the assessed valuation of one-family residential dwellings in a large tax district using <b>R</b>.
+	1. Property Valuation and Assessment: To analyze the relationship between the selling price and the assessed valuation of one-family residential dwellings in a large tax district using R.
 	
-	2. County Demographic Information (CDI) : To analyze county demographic information of 440 of the most populous counties in the United States. Using various variables in the dataset, such as the County, State, Land area, Total population, Percent of population aged 18-34, Percent of population 65 or older and Number of active physicians, I studied how the variables affect the number of active physicians using <b>R</b>.
+	2. County Demographic Information (CDI): To analyze county demographic information of 440 of the most populous counties in the United States. Using various variables in the dataset, such as the County, State, Land area, Total population, Percent of population aged 18-34, Percent of population 65 or older and Number of active physicians, I studied how the variables affect the number of active physicians using R.
 	
-	3. Efficacy of Nosocomial Infection Control: To analyze the data and determine whether infection surveillance and control programs have reduced the rates of nosocomial infection in the United States hospitals using <b>R</b>.
+	3. Efficacy of Nosocomial Infection Control: To analyze the data and determine whether infection surveillance and control programs have reduced the rates of nosocomial infection in the United States hospitals using R.
 
  ## SQL Projects
  - **Projects** 
