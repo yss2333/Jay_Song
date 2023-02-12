@@ -28,14 +28,14 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 
 ## Table of contents
 - **[About](#about)**
-- **[Study Projects](https://github.com/yss2333/Jay_Song/blob/main/README.md#study-projects)**
+- **[R Projects](https://github.com/yss2333/Jay_Song/blob/main/README.md#study-projects)**
 - **[SQL Projects](https://github.com/yss2333/Jay_Song/blob/main/README.md#sql-projects)**
 - **[Tableau Projects](https://github.com/yss2333/Sejun-Song/blob/main/README.md#tableau-projects)**
 - **[Certificates](https://github.com/yss2333/Jay_Song/blob/main/README.md#certificates)**
 - **[Contacts](https://github.com/yss2333/Jay_Song#connect-with-me)**
 
 
- ## Study Projects
+ ## R Projects
  - **Projects** 
 	+ [Boeing Business Case Competiton 2022](https://github.com/yss2333/Sejun-Song/blob/main/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf)
 	+ [Regression Model Analysis - Real Estate](https://github.com/yss2333/Sejun-Song/blob/main/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf)
@@ -44,7 +44,6 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 
 ## Data-EDA & Statistical Analysis:
 
-  
 - <u>Statistical Analysis using R<u> :    
    + <a href="Study Projects/Statistical Investigation & Data Analysis.pdf"> Social Media Usage Analysis </a>: 
         To determine the effect of social media usage on students’ academic performance and mental health according to various factors which gives an insight about the statistical analysis using <b>R</b>.
