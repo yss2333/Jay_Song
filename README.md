@@ -48,7 +48,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
    + <a href="Study Projects/Statistical Investigation & Data Analysis.pdf"> Social Media Usage Analysis </a>: 
         To determine the effect of social media usage on students’ academic performance and mental health according to various factors which gives an insight about the statistical analysis using <b>R</b>.
    + <a href="Study Projects/Regression Modeling Project - Real Estate Sales.pdf"> Real Estate Sales Analysis </a>: To analyze the data on real estate to predict the house price and identify a relationship between various factors and the sale price of houses using <b>R</b>.
-   + <a href="Study Projects/Statistical Investigation & Data Analysis.pdf"> Regression Modeling </a>: This project contains three different datasets.
+   + <a href="Study Projects/Regression_Modeling_Analysis.pdf"> Regression Modeling </a>: This project contains three different datasets.
 	
 	1. Property Valuation and Assessment: To analyze the relationship between the selling price and the assessed valuation of one-family residential dwellings in a large tax district using R.
 	
