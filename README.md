@@ -35,16 +35,15 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 - **[Contacts](https://github.com/yss2333/Jay_Song#connect-with-me)**
 
 
- ## Studt Projects - R
+ ## Study Projects - R
  - **Projects** 
-	+ [Boeing Business Case Competiton 2022](Study Projects/Boeing Business Case Competition 2023 - Statistical Data Analysis.pdf)
-	+ [Regression Model Analysis - Real Estate](Study Projects/Regression Modeling Project - Real Estate Sales.pdf)
-	+ [Statistical Investigation & Data Analysis](Study Projects/Statistical Investigation & Data Analysis.pdf)
+	+ [Boeing Business Case Competiton 2022](Study Projects/Boeing Business Case Competition 2023 - Statistical Data Analysis.pdf).
+	+ [Regression Model Analysis - Real Estate](Study Projects/Regression Modeling Project - Real Estate Sales.pdf).
+	+ [Statistical Investigation & Data Analysis](Study Projects/Statistical Investigation & Data Analysis.pdf).
 	+ [Regression_Modeling](Study Projects/Regression_Modeling_Analysis.pdf)
 
-## Data-EDA & Statistical Analysis:
-
- <u>Statistical Analysis using R<u> :    
+## Data-EDA & Statistical Analysis Projects:
+    
    + <a href="Study Projects/Statistical Investigation & Data Analysis.pdf"> Social Media Usage Analysis </a>: 
         To determine the effect of social media usage on students’ academic performance and mental health according to various factors which gives an insight about the statistical analysis using <b>R</b>.
    + <a href="Study Projects/Regression Modeling Project - Real Estate Sales.pdf"> Real Estate Sales Analysis </a>: To analyze the data on real estate to predict the house price and identify a relationship between various factors and the sale price of houses using <b>R</b>.
