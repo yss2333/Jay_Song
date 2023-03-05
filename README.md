@@ -64,7 +64,9 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 
 ## Tableau Projects
 - **Projects**
-	 + In Progress
+	 + [Covid Deaths](https://public.tableau.com/app/profile/sejun.song/viz/CovidDashboard_16756408537290/Dashboard1)
+	 + [Video Game Sales](https://public.tableau.com/app/profile/sejun.song/viz/VideoGameSales_16780595086470/VideoGameSales)
+	 + [Seattle Airbnb](https://public.tableau.com/app/profile/sejun.song/viz/SeattleAirbnb_16779743331510/Dashboard1)
 	 
 ## Certificates
 - **Google Data Analytics Professional Certificate**
