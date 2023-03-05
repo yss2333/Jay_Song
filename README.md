@@ -37,10 +37,10 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 
  ## Study Projects - R
  - **Projects** 
-	+ [Boeing Business Case Competiton 2022](Study Projects/Boeing Business Case Competition 2023 - Statistical Data Analysis.pdf).
-	+ [Regression Model Analysis - Real Estate](Study Projects/Regression Modeling Project - Real Estate Sales.pdf).
-	+ [Statistical Investigation & Data Analysis](Study Projects/Statistical Investigation & Data Analysis.pdf).
-	+ [Regression_Modeling](Study Projects/Regression_Modeling_Analysis.pdf)
+	+ [Boeing Business Case Competiton 2022](https://github.com/yss2333/Jay_Song/blob/6db9351ddab2a058c06f76de4e8e687105f8a6e6/Study%20Projects/Boeing%20Business%20Case%20Competition%202023%20-%20Statistical%20Data%20Analysis.pdf)
+	+ [Regression Model Analysis - Real Estate](https://github.com/yss2333/Jay_Song/blob/6db9351ddab2a058c06f76de4e8e687105f8a6e6/Study%20Projects/Regression%20Modeling%20Project%20-%20Real%20Estate%20Sales.pdf)
+	+ [Statistical Investigation & Data Analysis](https://github.com/yss2333/Jay_Song/blob/6db9351ddab2a058c06f76de4e8e687105f8a6e6/Study%20Projects/Statistical%20Investigation%20&%20Data%20Analysis.pdf)
+	+ [Regression_Modeling](https://github.com/yss2333/Jay_Song/blob/6db9351ddab2a058c06f76de4e8e687105f8a6e6/Study%20Projects/Regression_Modeling_Analysis.pdf)
 
 ## Data-EDA & Statistical Analysis Projects:
     
