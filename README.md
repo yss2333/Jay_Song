@@ -74,7 +74,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 	* [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/UYKJNZWJPSGB)
 	* [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/BEPLH8KQH85G)
 	* [Share Data Through the Art of Visualization](https://www.coursera.org/account/accomplishments/certificate/5FKNQSEHYAJ9)
-    	* [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/GSN7CHEEKKZT)
+	* [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/GSN7CHEEKKZT)
     
 ## Connect with me:
 * LinkdIn : https://www.linkedin.com/in/sejun-song 
