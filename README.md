@@ -66,6 +66,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 	 + [Covid Deaths](https://public.tableau.com/app/profile/sejun.song/viz/CovidDashboard_16756408537290/Dashboard1)
 	 + [Video Game Sales](https://public.tableau.com/app/profile/sejun.song/viz/VideoGameSales_16780595086470/VideoGameSales)
 	 + [Seattle Airbnb](https://public.tableau.com/app/profile/sejun.song/viz/SeattleAirbnb_16779743331510/Dashboard1)
+	 + [Netflix Data](https://public.tableau.com/views/NetflixData_16791877719580/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 	 
 ## Certificates
 - **Google Data Analytics Professional Certificate**
