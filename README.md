@@ -71,6 +71,7 @@ Cleaning and Preparation, Data Visualization, Data Modeling, Data Wrangling, Sta
 ## Certificates
 - **Google Data Analytics Professional Certificate**
 	* [Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/UQEXTBFE97RR)
+	* [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/account/accomplishments/certificate/VLBG6FZBGJ5D)
 	* [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/HN4MTMSPB6LC)
 	* [Prepare Data for Exploration](https://www.coursera.org/account/accomplishments/certificate/UYKJNZWJPSGB)
 	* [Foundations: Data, Data, Everywhere](https://www.coursera.org/account/accomplishments/certificate/BEPLH8KQH85G)
